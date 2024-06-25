@@ -25,14 +25,35 @@ body {
 
 .presentacion-contenido {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
 }
 
 .presentacion-titulo {
-    font-size: 36px;
+    font-size: 31px;
     font-family: "Krona One", sans-serif;
 }
 
 .presentacion-parrafo {
-    font-size: 24px;
+    font-size: 19px;
     font-family: "Montserrat", sans-serif;
+}
+
+.presentacion-enlaces {
+    display: flex;
+    justify-content: space-between;
+}
+
+.presentacion-btnes {
+    width: 250px;
+    background-color: #22d4fd;
+    color: #000000;
+    text-align: center;
+    padding-block: 19px;
+    border-radius: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
 }
