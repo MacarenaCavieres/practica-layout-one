@@ -1,6 +1,6 @@
 # Proyecto layout de Alura Latam
 
-Practica de portafolio en donde se practica con medias queries, variables en css y flexbox. Para ver el proyecto da click [aquí](https://macarenacavieres.github.io/practica-layout-one/)
+Práctica de portafolio en donde se ejercita con medias queries, variables en css y flexbox. Para ver el proyecto da click [aquí](https://macarenacavieres.github.io/practica-layout-one/)
 
 ## Herramientas utilizadas:
 
